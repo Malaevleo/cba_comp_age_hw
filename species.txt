@@ -1,0 +1,17 @@
+Rhinolophus_ferrumequinum
+Pteropus_alecto
+Pteropus_giganteus
+Pteropus_vampyrus
+Rousettus_aegyptiacus
+Saccopteryx_bilineata
+Artibeus_jamaicensis
+Phyllostomus_hastatus
+Phyllostomus_discolor
+Desmodus_rotundus
+Molossus_molossus
+Myotis_brandtii
+Myotis_lucifugus
+Myotis_daubentonii
+Myotis_myotis
+Pipistrellus_kuhlii
+Pipistrellus_nathusii
